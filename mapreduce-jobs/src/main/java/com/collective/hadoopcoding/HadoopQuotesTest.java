@@ -7,9 +7,13 @@ import org.apache.hadoop.mrunit.mapreduce.MapReduceDriver;
 import org.apache.hadoop.mrunit.mapreduce.ReduceDriver;
 
 
-import java.util.ArrayList;
-import java.util.List;
+/**
+ * 
+ * @author prashanth_ravikumar
+ *
+ */
 
 public class HadoopQuotesTest {
 
+	
 }
